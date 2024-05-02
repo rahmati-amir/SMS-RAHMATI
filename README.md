@@ -18,25 +18,25 @@
 پروژه را کلون کنید 🔗
 
 ```bash
-  git clone https://github.com/rahmati-amir/SMS-RAHMATI
+git clone https://github.com/rahmati-amir/SMS-RAHMATI
 ```
 
 به فولدر پروژه بروید 📂
 
 ```bash
-  cd SMS-RAHMATI
+cd SMS-RAHMATI
 ```
 
 پکیج ها را نصب کنید 🔻
 
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 لذت ببرید 💖
 
 ```bash
-  python3 sms-bomber-ahr.py
+python3 sms-bomber-ahr.py
 ```
 
 
